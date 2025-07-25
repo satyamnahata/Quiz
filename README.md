@@ -41,7 +41,7 @@ Make sure Python 3 is installed. Then:
 
 ```bash
 python quiz_game.py
-
+```
 📦 Requirements
 No external libraries needed. Everything runs using Python’s built-in modules (json, random, etc.)
 
