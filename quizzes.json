@@ -1,0 +1,160 @@
+{
+  "Coding": [
+    {
+      "question": "What does HTML stand for?",
+      "options": ["HyperText Markup Language", "Hyper Trainer Marking Language", "Hyper Tool Multi Language", "HighText Machine Language"],
+      "answer": "a"
+    },
+    {
+      "question": "What symbol is used for comments in Python?",
+      "options": ["//", "#", "/*", "--"],
+      "answer": "b"
+    },
+    {
+      "question": "Which loop runs at least once?",
+      "options": ["for", "while", "do-while", "None"],
+      "answer": "c"
+    },
+    {
+      "question": "Which of these is a Python data type?",
+      "options": ["loop", "integer", "condition", "math"],
+      "answer": "b"
+    },
+    {
+      "question": "Which keyword defines a function in Python?",
+      "options": ["func", "def", "define", "function"],
+      "answer": "b"
+    },
+    {
+      "question": "Which is used to handle exceptions in Python?",
+      "options": ["catch", "try", "except", "finally"],
+      "answer": "c"
+    },
+    {
+      "question": "Which library is used for data analysis in Python?",
+      "options": ["NumPy", "TensorFlow", "Pandas", "Matplotlib"],
+      "answer": "c"
+    },
+    {
+      "question": "What is the output of 2 + 3 * 4?",
+      "options": ["20", "14", "24", "10"],
+      "answer": "b"
+    },
+    {
+      "question": "Which one is a boolean value?",
+      "options": ["Yes", "True", "Correct", "Valid"],
+      "answer": "b"
+    },
+    {
+      "question": "Which keyword is used to stop a loop?",
+      "options": ["exit", "stop", "quit", "break"],
+      "answer": "d"
+    }
+  ],
+
+  "Nepal": [
+    {
+      "question": "What is the capital of Nepal?",
+      "options": ["Pokhara", "Kathmandu", "Bhaktapur", "Lalitpur"],
+      "answer": "b"
+    },
+    {
+      "question": "Which mountain lies in Nepal?",
+      "options": ["K2", "Mount Fuji", "Mount Everest", "Denali"],
+      "answer": "c"
+    },
+    {
+      "question": "What is the currency of Nepal?",
+      "options": ["Rupee", "Dollar", "Taka", "Yen"],
+      "answer": "a"
+    },
+    {
+      "question": "Who is known as the Light of Asia?",
+      "options": ["Gautam Buddha", "Confucius", "Socrates", "Lao Tzu"],
+      "answer": "a"
+    },
+    {
+      "question": "What is Nepal's national flower?",
+      "options": ["Lotus", "Lily", "Rhododendron", "Sunflower"],
+      "answer": "c"
+    },
+    {
+      "question": "How many provinces are in Nepal?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "c"
+    },
+    {
+      "question": "In which year was Nepal declared a federal republic?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "answer": "d"
+    },
+    {
+      "question": "What is the name of the Nepalese flag shape?",
+      "options": ["Triangle", "Square", "Pentagon", "Double-pennon"],
+      "answer": "d"
+    },
+    {
+      "question": "Which is Nepal's longest river?",
+      "options": ["Gandaki", "Koshi", "Karnali", "Bagmati"],
+      "answer": "c"
+    },
+    {
+      "question": "What is Dashain?",
+      "options": ["A city", "A food", "A festival", "A dance"],
+      "answer": "c"
+    }
+  ],
+
+  "Startup": [
+    {
+      "question": "What is a startup?",
+      "options": ["A large company", "An old company", "A newly established company", "A non-profit company"],
+      "answer": "c"
+    },
+    {
+      "question": "Which of these is a famous startup accelerator?",
+      "options": ["Y Combinator", "Tesla", "Google", "Meta"],
+      "answer": "a"
+    },
+    {
+      "question": "What is bootstrapping?",
+      "options": ["Hiring investors", "Raising a big round", "Starting with own money", "Copying others"],
+      "answer": "c"
+    },
+    {
+      "question": "What is MVP in startup terms?",
+      "options": ["Most Valuable Player", "Minimal Viable Product", "Market Value Profit", "Mass Venture Protocol"],
+      "answer": "b"
+    },
+    {
+      "question": "Which company did Elon Musk NOT found?",
+      "options": ["Tesla", "SpaceX", "Zip", "Apple"],
+      "answer": "d"
+    },
+    {
+      "question": "What does 'pitch' mean in startup world?",
+      "options": ["Throwing ideas away", "Explaining your business idea", "Investing", "Running a company"],
+      "answer": "b"
+    },
+    {
+      "question": "What is equity?",
+      "options": ["Salary", "Ownership share", "Debt", "Customer reviews"],
+      "answer": "b"
+    },
+    {
+      "question": "Who invests money into startups?",
+      "options": ["Bank", "CEO", "Investor", "Intern"],
+      "answer": "c"
+    },
+    {
+      "question": "What does IPO stand for?",
+      "options": ["Internal Product Offer", "Initial Public Offering", "Investment Portfolio Option", "Income Plan Offering"],
+      "answer": "b"
+    },
+    {
+      "question": "Which is a famous startup from Nepal?",
+      "options": ["Foodmandu", "Zomato", "Amazon", "Spotify"],
+      "answer": "a"
+    }
+  ]
+}
